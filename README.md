@@ -26,7 +26,6 @@ This project is a **Spring Boot** based **RESTful** web application that allows 
 * **Language:** Java 17+
 * **Framework:** Spring Boot 3.x
 * **Database:** MySQL
-* **Security:** Role-Based Access Control (RBAC) - Basic Auth
 * **Build Tool:** Maven
 * **Architecture:** Layered Architecture (Katmanlı Mimari)
 
