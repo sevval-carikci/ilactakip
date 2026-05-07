@@ -12,7 +12,7 @@ This project is a **Spring Boot** based **RESTful** web application that allows 
 
 | TR | EN |
 | :--- | :--- |
-| **🔐 Kullanıcı ve Rol Yönetimi:** RBAC tabanlı yetkilendirme. | **🔐 User & Role Management:** RBAC-based authorization. |
+| **🔐 Kullanıcı ve Rol Yönetimi:** Spring Security ile güvenli kimlik doğrulama ve yetkilendirme sistemi. | **🔐 User & Role Management:** Secure authentication and authorization with Spring Security. |
 | **🔍 Barkod Entegrasyonu:** Hızlı kayıt ve sorgulama. | **🔍 Barcode Integration:** Fast registration and querying. |
 | **📂 Kategorizasyon:** Türlerine göre sınıflandırma. | **📂 Categorization:** Classification by medication types. |
 | **💊 İlaç Envanteri:** Doz ve hatırlatıcı yönetimi. | **💊 Inventory Management:** Dose and reminder management. |
