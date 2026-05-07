@@ -31,15 +31,6 @@ This project is a **Spring Boot** based **RESTful** web application that allows 
 
 ---
 
-## 📊 Veritabanı Tasarımı | Database Design (EER Diagram)
-
-Projenin veritabanı mimarisi ve tablolar arası ilişkileri aşağıdaki diyagramda gösterilmiştir:
-*The database architecture and table relationships are shown in the diagram below:*
-
-![EER Diagram](eer_diagram.png)
-
----
-
 ## 🧪 API Testleri | API Testing (Postman)
 
 Uygulamanın tüm fonksiyonları Postman üzerinden test edilmiş ve uç noktalar (endpoints) doğrulanmıştır. Testleri gerçekleştirmek için kök dizindeki `ilac-takip-sistemi.postman_collection.json` dosyasını kullanabilirsiniz.
