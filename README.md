@@ -65,6 +65,6 @@ Uygulamanın tüm fonksiyonları Postman üzerinden test edilmiş ve uç noktala
 >
 > ## Geliştiriciler | Contributors
 
-* *Şevval Çarıkcı* - [GitHub](https://github.com/sevval-carikci)
+* *Şevval Çarıkçı* - [GitHub](https://github.com/sevval-carikci)
 * *Berivan Karaman* - [GitHub](https://github.com/berivankaraman42-bilp)
 
