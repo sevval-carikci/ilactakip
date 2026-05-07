@@ -63,7 +63,8 @@ Uygulamanın tüm fonksiyonları Postman üzerinden test edilmiş ve uç noktala
 > **Note:** Testler sırasında `base_url` değişkeninin `http://localhost:8070` olduğundan emin olun.
 > **Not:** Testler sırasında `base_url` değişkeninin `http://localhost:8070` olduğundan ve isteklerde **Basic Auth** bilgilerinin tanımlı olduğundan emin olun.
 >
-> ## Katkıda Bulunanalar | Contributors
->
-> berivankaraman42-bilp
+> ## Geliştiriciler | Contributors
+
+* *Şevval Çarıkcı* - [GitHub](https://github.com/sevval-carikci)
+* *Berivan Karaman* - [GitHub](https://github.com/berivankaraman42-bilp)
 
